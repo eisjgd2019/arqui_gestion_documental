@@ -6,3 +6,11 @@ Y para la aplicación en arquitectura tres capas (capa de presentación, capa de
 ![Arquitectura](https://github.com/eisjgd2019/arqui_gestion_documental/blob/master/Cliente-servidor.png)
 # Justificación
 Se determina implementar arquitectura cliente servidor como la que más se ajusta a la necesidad ya que el sistema de gestión documental será de uso interno y de pocos usuarios para un proceso secuencial y estandarizado, se hubiese podido proponer arquitectura SOA con bus de servicios pero debido a que este sistema no requiere interactuar no requiere interactuar con otros sistemas externos, ni tampoco aplica la arquitectura orientada a microservicios debido a que el sistema no tendrá trafico global (miles de transacciones).
+
+Integrantes: 
+============
+
+- Sara Lucía Guzmán Díaz cod: 20172678005
+- Gustavo Adolfo Morales Hernandez cod: 20191099034
+- Jimmy Leonardo Melo Cardozo cod: 20191099032
+- Diego Armando Velez Peralta cod: 20191099042
