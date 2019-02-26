@@ -10,7 +10,6 @@ Se determina implementar arquitectura cliente servidor como la que más se ajust
 Integrantes: 
 ============
 
-- Sara Lucía Guzmán Díaz cod: 20172678005
 - Gustavo Adolfo Morales Hernandez cod: 20191099034
 - Jimmy Leonardo Melo Cardozo cod: 20191099032
 - Diego Armando Velez Peralta cod: 20191099042
